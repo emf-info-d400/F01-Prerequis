@@ -33,7 +33,8 @@ Ce projet cloné contient déjà un `main()`. Complétez ce projet afin de réal
 ## Sortie console (exemple)
 
 ```text
-
+Il y a 506 nombres pairs dans le tableau
+La moyenne des nombres du tableau est 51.234375
 ```
 
 ## Restitution
